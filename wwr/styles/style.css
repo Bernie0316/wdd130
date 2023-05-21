@@ -1,11 +1,8 @@
 
 
-div {
-    max-width: 1600px;
-}
-
-content {
-    margin: 0 auto;
+#content { 
+    max-width: 1600px; 
+    margin: 0 auto; 
 }
 
 nav a
@@ -33,6 +30,7 @@ main section {
 
 #backgrund {
     height: 725px;
+    width: 80px;
 }
 
 body
